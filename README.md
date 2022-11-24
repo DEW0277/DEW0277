@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEW0277
 - 👀 I am interested in writing code
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (telegramm username: @JaloliddinAbdurahmonov)
 - 📫 How to reach me ...
 
 <!---
