@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEW0277
-- 👀 I’m interested in Coding
+- 👀 I am interested in writing code
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
